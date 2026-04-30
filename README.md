@@ -2,9 +2,23 @@
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPRanger-LoRa-GNSS-GPS-IMU-RS485-60V/blob/main/README.md#updates)
+**Board Information to follow. Pre-Release Information. Availability June 2026.
 
-------------
+## Welcome to ESPKite
+[![DitroniX WiKi Pages](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/wiki)
+
+[**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays#updates)
+
+## What is the ESPKite?
+
+**ESPKite** is a compact, feature rich, SDK board with a range of IoT technologies.
+* Espressif ESP32-C6 MCU
+* LoRa (EByte E22-900M22S with Semtech SX1262), module covering 850 MHz through to 930 MHz
+* RS485 Interface (DMX)
+* Two Relays (NO/NC)
+* Can be powered directly from 5-60V DC supply.
+* Compact board (77mm x 49mm)
+* DIN Enclosure Mountable
 
 
 ## Updates
