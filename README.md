@@ -1,4 +1,4 @@
-## ESPKite, ESP32-C6, SX1262, LoRa, RS485, 5-60V, Relay Outputs
+## ESPKite, ESP32-C6, SX1262, LoRa, RS485, 5-60V, Relay Output
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
@@ -15,7 +15,7 @@
 * Espressif ESP32-C6 MCU
 * LoRa (EByte E22-900M22S with Semtech SX1262), module covering 850 MHz through to 930 MHz
 * RS485 Interface (DMX)
-* Two Relays (NO/NC)
+* Relay (NO/NC)
 * Can be powered directly from 5-60V DC supply.
 * Compact board (77mm x 49mm)
 * DIN Enclosure Mountable
