@@ -2,26 +2,35 @@
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-**Board Information to follow. Pre-Release Information. Availability June 2026.
+**Board Information to follow. Pre-Release Information. Availability May 2026.
 
 ## Welcome to ESPKite
 [![DitroniX WiKi Pages](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/wiki)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays#updates)
 
+![ESPKite Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKIte%20-%20Feature.png)
+
+
 ## What is the ESPKite?
 
 **ESPKite** is a compact, feature rich, SDK board with a range of IoT technologies.
-* Espressif ESP32-C6 MCU
+* Espressif ESP32-C6 MCU (WiFi 2.4GHz BT Zigbee Thread)
 * LoRa (EByte E22-900M22S with Semtech SX1262), module covering 850 MHz through to 930 MHz
-* RS485 Interface (DMX)
-* Relay (NO/NC)
-* Can be powered directly from 5-60V DC supply.
+* SMA Female (LoRa Antenna Connector)
+* RS485 Interface (RS-485 / DMX)
+* Relay (NO 3A 30VDC 250VAC)
+* GPIO 
+* Internal High Voltage SMPS (Power directly from 5-60V DC supply).
+* Internal Expansion Ports (I2C and SPI)
 * Compact board (77mm x 49mm)
+* 4 x Terminal Blocks
+* Type C UART / 5V Power
 * DIN Enclosure Mountable
 
 
 ## Updates
+-   26-05-04 - In PreProduction
 -   26-04-14 - Preliminary Information
 
 **In The Box**
