@@ -34,17 +34,20 @@
 
 The ESPKite board has been designed to be compact and practical.
 
-A power enable PCB jumper is available to aid LoRa firmware development, or protect the PA if no antenna, or RF load, is fitted.
+![ESPKite 3D Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%201.2605.101%203D.png)
 
-DC supply range from 5V to 60V, with maximum of 75V, is achieved via an on-board SMPS.
+* A power enable PCB jumper is available to aid LoRa firmware development, or protect the PA if no antenna, or RF load, is fitted.
 
-Should you wish to use Wi-Fi, BT, Zigbee, the ESP32-C6 uses an IPEX MHF3 U.FL connector.
+* DC supply range from 5V to 60V, with maximum of 75V, is achieved via an on-board SMPS.
 
-RS485 load enable PCB jumper is provided.  This would normally be fitted to enable the 120R load.
+* Should you wish to use Wi-Fi, BT, Zigbee, the ESP32-C6 uses an IPEX MHF3 U.FL connector.
 
-Relay provides set of dry contacts, normally open.  These are galvanically isolated and can switch 3A (30V DC, or 250V AC).
+* RS485 load enable PCB jumper is provided.  This would normally be fitted to enable the 120R load.
 
-MCU Reset and PGM/User tactile buttons are slightly height extended, for enclosure.
+* Relay provides set of dry contacts, normally open.  These are galvanically isolated and can switch 3A (30V DC, or 250V AC).
+
+* MCU Reset and PGM/User tactile buttons are slightly height extended, for enclosure.
+
 
 ## Updates
 -   26-05-04 - In PreProduction
