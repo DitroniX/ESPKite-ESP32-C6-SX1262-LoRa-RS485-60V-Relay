@@ -66,9 +66,14 @@ The ESPKite board has been designed to be compact and practical.
 Details to follow.
 
 ## **Purchase**
+
+* DitroniX Shop - You may pre-order via the http://ditronix.net
+
+* eBay - Our STEM SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/usr/ditronixuk) 
+
 [![Display-Type-B](https://raw.githubusercontent.com/DitroniX/DitroniX/main/Files/DitroniX.net%20STEM%20IoT%20eBay.jpg?raw=true)](https://www.ebay.co.uk/usr/ditronixuk)
 
-Our STEM SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/usr/ditronixuk) 
+
 ## **Further Information**
 
 Additional information, and other technical details on this project, maybe found in the related repository pages.
