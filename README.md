@@ -57,6 +57,7 @@ The ESPKite board has been designed to be compact and practical.
 
 
 ## Updates
+-   26-05-05 - The DitroniX Shop is taking Pre-Orders (discounted until end May)
 -   26-05-05 - Added new 433MHz E22-400M22S version.  410 to 493MHz.  
 -   26-05-04 - In PreProduction
 -   26-04-14 - Preliminary Information
