@@ -35,6 +35,25 @@ ESPKite Board (850-930MHz)           |  ESPKite Complete Kit  (850-930MHz)    | 
 * Type C USB is connected to a CH343P UART / 5V Power
 * DIN Enclosure Mountable (Maybe alternatively screw fixed)
 
+## Semtech SX1262 
+
+* E22-900M22S
+    * Operating Frequency: 850-930 MHz (868/915. Default: 868 MHz)
+* E22-400M22S
+    * Operating Frequency: 410~493 MHz (433/470. Default: 433 MHz
+
+Both E22 modules feature:
+
+* Modulation: LoRa™, GFSK
+* Interface: SPI
+* Transmitter RF Power Output: 22 dBm (~160mW)
+* Receiver Sensitivity: -147 dBm (Low sensitivity)
+* Communication Distance: Up to 6-7 km (in open, clear air)
+* Integrated TCXO (32MHz crystal oscillator)
+* E22 Module Current
+    * RX current up to approx 7mA.
+    * TX current up to approx 119mA.
+    * Sleep current approx 2nA.
 
 
 ## The Board
