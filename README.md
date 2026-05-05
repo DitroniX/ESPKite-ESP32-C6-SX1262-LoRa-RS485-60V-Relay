@@ -30,6 +30,21 @@
 * Type C USB is connected to a CH343P UART / 5V Power
 * DIN Enclosure Mountable (Maybe alternatively screw fixed)
 
+## The Board
+
+The ESPKite board has been designed to be compact and practical.
+
+A power enable PCB jumper is available to aid LoRa firmware development, or protect the PA if no antenna, or RF load, is fitted.
+
+DC supply range from 5V to 60V, with maximum of 75V, is achieved via an on-board SMPS.
+
+Should you wish to use Wi-Fi, BT, Zigbee, the ESP32-C6 uses an IPEX MHF3 U.FL connector.
+
+RS485 load enable PCB jumper is provided.  This would normally be fitted to enable the 120R load.
+
+Relay provides set of dry contacts, normally open.  These are galvanically isolated and can switch 3A (30V DC, or 250V AC).
+
+MCU Reset and PGM/User tactile buttons are slightly height extended, for enclosure.
 
 ## Updates
 -   26-05-04 - In PreProduction
