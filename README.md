@@ -18,15 +18,17 @@
 * Espressif ESP32-C6 MCU (WiFi 2.4GHz BT Zigbee Thread)
 * LoRa (EByte E22-900M22S with Semtech SX1262), module covering 850 MHz through to 930 MHz
 * SMA Female (LoRa Antenna Connector)
-* RS485 Interface (RS-485 / DMX)
+* RS485 Interface CS48520AD with ±20kV ESD Protection (RS-485 / DMX)
 * Relay (NO 3A 30VDC 250VAC)
-* GPIO 
+* GPIO (20V Voltage Tolerant)
+* TMP102 On-board Digital Temperature Sensor
+* EEPROM (24C64 64Kbit with Noise suppression function、Built-in power-on reset, POR)
 * Internal High Voltage SMPS (Power directly from 5-60V DC supply).
-* Internal Expansion Ports (I2C and SPI)
+* Internal Expansion Ports (I2C and SPI, for Display and MicroSD)
 * Compact board (77mm x 49mm)
 * 4 x Terminal Blocks
-* Type C UART / 5V Power
-* DIN Enclosure Mountable
+* Type C USB is connected to a CH343P UART / 5V Power
+* DIN Enclosure Mountable (Maybe alternatively screw fixed)
 
 
 ## Updates
