@@ -62,13 +62,10 @@ The ESPKite board has been designed to be compact and practical.
 -   26-05-04 - In PreProduction
 -   26-04-14 - Preliminary Information
 
-**In The Box**
-
-Details to follow.
 
 ## **Purchase**
 
-* DitroniX Shop - You may pre-order via the http://ditronix.net
+* DitroniX Shop - You may also pre-order, and order, via the http://ditronix.net 
 
 * eBay - Our STEM SDK boards and accessories are available from our online shops on [eBay](https://www.ebay.co.uk/usr/ditronixuk) 
 
