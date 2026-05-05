@@ -12,23 +12,30 @@
 ![ESPKite Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKIte%20-%20Feature.png)
 
 
+ESPKite Board (850-930MHz)           |  ESPKite Complete Kit  (850-930MHz)    |  ESPKite 433 MHz (410-493MHz) Version 
+:-------------------------:|:-------------------------:|:-------------------------:
+![ESPKite](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20433MHz%20Features%20(Thumb).png)  |  ![ESPKite](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20KIT%20-%20Features%20(Thumb).png)  |  ![ESPKite](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20433MHz%20Features%20(Thumb).png)
+
 ## What is the ESPKite?
 
 **ESPKite** is a compact, feature rich, SDK board with a range of IoT technologies.
 * Espressif ESP32-C6 MCU (WiFi 2.4GHz BT Zigbee Thread)
-* LoRa (EByte E22-900M22S with Semtech SX1262), module covering 850 MHz through to 930 MHz.   Optional E22-400M22S for 410 to 493MHz Version.
+* LoRa (EByte E22-900M22S with Semtech SX1262), module covering 850 MHz through to 930 MHz.
+    * Optional E22-400M22S for 410 to 493MHz Version.
 * SMA Female (LoRa Antenna Connector)
 * RS485 Interface CS48520AD with ±20kV ESD Protection (RS-485 / DMX)
 * Relay (NO 3A 30VDC 250VAC)
 * GPIO (20V Voltage Tolerant)
 * TMP102 On-board Digital Temperature Sensor
-* EEPROM (24C64 64Kbit with Noise suppression function、Built-in power-on reset, POR)
+* EEPROM (24C64 64Kbit with Noise suppression function Built-in power-on reset, POR)
 * Internal High Voltage SMPS (Power directly from 5-60V DC supply).
 * Internal Expansion Ports (I2C and SPI, for Display and MicroSD)
 * Compact board (77mm x 49mm)
 * 4 x Terminal Blocks
 * Type C USB is connected to a CH343P UART / 5V Power
 * DIN Enclosure Mountable (Maybe alternatively screw fixed)
+
+
 
 ## The Board
 
