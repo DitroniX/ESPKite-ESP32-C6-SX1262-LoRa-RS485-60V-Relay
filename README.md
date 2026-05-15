@@ -9,7 +9,9 @@
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays#updates)
 
-![ESPKite Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKIte%20-%20Feature.png)
+![ESPKite PreProduction Family](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20Family%20-%20Feature.png)
+![ESPKite PreProduction 868MHz](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20868%20MHz%20-%20Feature.png)
+![ESPKite PreProduction 433MHz](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20433%20MHz%20-%20Feature.png)
 
 
 ESPKite Board (850-930MHz)           |  ESPKite Complete Kit  (850-930MHz)    |  ESPKite 433 MHz (410-493MHz) Version 
@@ -60,7 +62,10 @@ Both E22 modules feature:
 
 The ESPKite board has been designed to be compact and practical.
 
-![ESPKite 3D Preview](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%201.2605.101%203D.png)
+![ESPKite Bpards](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20433MHz%20and%20868MHz.png)
+![ESPKite Enclosures](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/blob/main/Datasheets%20and%20Information/ESPKite%20868MHz%20433MHz.png)
+
+
 
 * A power enable PCB jumper is available to aid LoRa firmware development, or protect the PA if no antenna, or RF load, is fitted.
 
@@ -76,6 +81,9 @@ The ESPKite board has been designed to be compact and practical.
 
 
 ## Updates
+-   26-05-15 - Next Stage: Finish testing and then order production boards next week.
+-   26-05-15 - ESPKite Enclosures, complete with Labels
+-   26-05-15 - Proproduction boards being tested
 -   26-05-05 - The DitroniX Shop is taking Pre-Orders (discounted until end May)
 -   26-05-05 - Added new 433MHz E22-400M22S version.  410 to 493MHz.  
 -   26-05-04 - In PreProduction
