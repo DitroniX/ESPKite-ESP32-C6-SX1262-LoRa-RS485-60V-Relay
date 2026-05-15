@@ -1,8 +1,8 @@
-## ESPKite, ESP32-C6, SX1262, LoRa, RS485, 5-60V, Relay Output
+## ESPKite, ESP32-C6, LoRa 868MHz SX1262, LoRa 433MHz SX1268, RS485, 5-60V, Relay Output
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-**Board Information to follow. Pre-Release Information. Availability May 2026.
+Availability Late May 2026.
 
 ## Welcome to ESPKite
 [![DitroniX WiKi Pages](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/wiki)
@@ -83,7 +83,7 @@ The ESPKite board has been designed to be compact and practical.
 ## Updates
 -   26-05-15 - Next Stage: Finish testing and then order production boards next week.
 -   26-05-15 - ESPKite Enclosures, complete with Labels
--   26-05-15 - Proproduction boards being tested
+-   26-05-15 - Preproduction 868 MHz and 433 MHz boards being tested
 -   26-05-05 - The DitroniX Shop is taking Pre-Orders (discounted until end May)
 -   26-05-05 - Added new 433MHz E22-400M22S version.  410 to 493MHz.  
 -   26-05-04 - In PreProduction
