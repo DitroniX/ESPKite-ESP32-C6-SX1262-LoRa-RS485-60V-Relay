@@ -21,7 +21,7 @@ ESPKite Board (850-930MHz)           |  ESPKite Complete Kit  (850-930MHz)    | 
 **ESPKite** is a compact, feature rich, SDK board with a range of IoT technologies.
 * Espressif ESP32-C6 MCU (WiFi 2.4GHz BT Zigbee Thread)
 * LoRa (EByte E22-900M22S with Semtech SX1262), module covering 850 MHz through to 930 MHz.
-    * Optional E22-400M22S (SX1268), for 410 to 493MHz Version.
+    * Optional EByte E22-400M22S with Semtech SX1268, for 410 to 493MHz Version.
 * SMA Female (LoRa Antenna Connector)
 * RS485 Interface CS48520AD with ±20kV ESD Protection (RS-485 / DMX)
 * Relay (NO 3A 30VDC 250VAC)
