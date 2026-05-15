@@ -1,0 +1,23 @@
+ESPKite Bring Up and Test Example Code
+MicroSD Test on SPI Expansion Port
+SD Card Type: SDHC
+SD Card Size: 30250MB
+Listing directory: /
+  DIR : System Volume Information
+  FILE: test.txt  SIZE: 1048576
+  FILE: foo.txt  SIZE: 13
+Creating Dir: /mydir
+Directory Created
+Listing directory: /
+  DIR : System Volume Information
+  FILE: test.txt  SIZE: 1048576
+  FILE: foo.txt  SIZE: 13
+  DIR : mydir
+Removing Directory: /mydir
+Directory Removed
+Listing directory: /
+  DIR : System Volume Information
+Listing directory: System Volume Information
+Failed to open directory
+  FILE: test.txt  SIZE: 1048576
+  FILE: foo.txt  SIZE: 13
