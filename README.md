@@ -81,6 +81,7 @@ The ESPKite board has been designed to be compact and practical.
 
 
 ## Updates
+-   26-05-27 - Production boards on order.  You may pre-order from my website.
 -   26-05-15 - Next Stage: Finish testing and then order production boards next week.
 -   26-05-15 - ESPKite Enclosures, complete with Labels
 -   26-05-15 - Preproduction 868 MHz and 433 MHz boards being tested
