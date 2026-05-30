@@ -7,6 +7,8 @@ Availability Early June 2026.
 ## Welcome to ESPKite
 [![DitroniX WiKi Pages](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/wiki)
 
+[![DitroniX FAQ Pages](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20WiKi%20FAQ.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/wiki/FAQ)
+
 [![DitroniX Discussions](https://github.com/DitroniX/DitroniX/blob/main/Files/GitHub%20Discussions.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/discussions)
 
 [**For Latest Project Updates - Click Here**](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays#updates)
