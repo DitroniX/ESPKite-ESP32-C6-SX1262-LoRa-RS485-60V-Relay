@@ -85,6 +85,7 @@ The ESPKite board has been designed to be compact and practical.
 
 
 ## Updates
+-   26-06-06 - Boards in Production.  Estimated availability end of June.
 -   26-05-30 - Boards will be available early June.  Initially the 868/915 version.
 -   26-05-27 - Production boards on order.  You may pre-order from my website.
 -   26-05-15 - Next Stage: Finish testing and then order production boards next week.
