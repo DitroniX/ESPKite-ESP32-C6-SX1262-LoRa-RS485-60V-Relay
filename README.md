@@ -2,8 +2,6 @@
 
 **Supporting STEM Electronic Internet of Things & Home Automation Technology for Smart Energy Monitoring**
 
-Availability Early June 2026.
-
 ## Welcome to ESPKite
 [![DitroniX WiKi Pages](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/blob/main/Datasheets%20and%20Information/GitHub%20WiKi.png?raw=true)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relays/wiki)
 
@@ -85,6 +83,7 @@ The ESPKite board has been designed to be compact and practical.
 
 
 ## Updates
+-   26-06-18 - In stock next week.
 -   26-06-06 - Boards in Production.  Estimated availability end of June.
 -   26-05-30 - Boards will be available early June.  Initially the 868/915 version.
 -   26-05-27 - Production boards on order.  You may pre-order from my website.
