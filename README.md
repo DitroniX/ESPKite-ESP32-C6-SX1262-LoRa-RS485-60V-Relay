@@ -34,7 +34,7 @@ ESPKite Board (850-930MHz)           |  ESPKite Complete Kit  (850-930MHz)    | 
 * EEPROM (24C64 64Kbit with Noise suppression function Built-in power-on reset, POR)
 * Internal High Voltage SMPS (Power directly from 5-60V DC supply).
 * Internal Expansion Ports (I2C and SPI, for Display and MicroSD)
-* Compact board (77mm x 49mm)
+* Compact board [(79mm x 49mm)](https://github.com/DitroniX/ESPKite-ESP32-C6-SX1262-LoRa-RS485-60V-Relay/wiki/PCB-Dimensions)
 * 4 x Terminal Blocks
 * Type C USB is connected to a CH343P UART / 5V Power
 * DIN Enclosure Mountable (Maybe alternatively screw fixed)
